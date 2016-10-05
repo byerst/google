@@ -1,0 +1,9 @@
+.ui.borderless.topmenu.menu  {
+  box-shadow: none;
+  border: none;
+}
+
+.ui.borderless.bottom.fixed.bottommenu.menu {
+  background-color: #f2f2f2;
+  color: #666;
+}
